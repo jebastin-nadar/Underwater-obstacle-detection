@@ -5,3 +5,9 @@ Underwater obstacles and path detection using OpenCV and python. The video is ta
 
 ![](output.gif)
 
+The underwater robot has to follow the black path and avoid the yellow obstacle in between the path. 
+
+### Output
+
+
+
