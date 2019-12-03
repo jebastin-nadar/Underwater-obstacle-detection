@@ -18,5 +18,9 @@ The underwater robot has to follow the black path and avoid the yellow obstacle 
 
 ![](final.gif)
 
-
+### References
+1. https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
+2. https://medium.com/@galen.ballew/opencv-lanedetection-419361364fc0
+3. https://medium.com/@mrhwick/simple-lane-detection-with-opencv-bfeb6ae54ec0
+4. https://towardsdatascience.com/deeppicar-part-4-lane-following-via-opencv-737dd9e47c96
 
